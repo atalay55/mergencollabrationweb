@@ -1,0 +1,202 @@
+{
+    "Home":"Maison",
+    "About": "À propos",
+    "Works":"zones de travail",
+    "Contact-Us": "Contact us",
+    "Contact-Us-title": "Contactez-nous",
+    "Contact-Us-text":"Contactez-nous à tout moment, nous vous aiderons avec plaisir",
+    "phone": "Téléphone",
+    "adress": "une robe",
+    "descPage":[
+        "Technologies de L'Information","Éducation ","Commerce extérieur ","Commercial","Droit","Entreprise"
+      ],
+      "Caruosel-img1-text":"Bienvenue sur notre site",
+      "contactUs-btn-text":"Contactez-nous",
+      "Caruosel-img2-text":"Nous n'avons besoin que d'une chose, travailler dur. La richesse et son résultat naturel, la prospérité et le bonheur, sont le droit des seuls travailleurs.",
+      "Caruosel-img3-text":"Nous sommes là pour vous apporter individuellement ou institutionnellement les solutions dont vous avez besoin dans les domaines du conseil aux entreprises, de l'immobilier, du commerce extérieur, des technologies de l'information, de l'enseignement supérieur et du droit.",
+      "contact-us-part-text":"Avez-vous besoin de conseil?",
+      "home-about-text1":"Mergen Collaboration & Consultancy a été créée en 2023. Notre société tire son nom de 'Mergen', le dieu de l'esprit dans la mythologie turque et altaïque. Il représente l'esprit, l'intelligence et la sagesse. Il ne manque pas sa cible avec sa sagesse. Il donne aux gens la sagesse. Symbolise la science et la philosophie.",
+      "home-about-text2":"En tant que Mergen Collaboration & Consultancy, notre mission est de mettre en œuvre systématiquement les solutions dont vous avez besoin dans les domaines du conseil aux entreprises, de l'immobilier, du commerce extérieur, des technologies de l'information, de l'éducation et du droit, d'y contribuer individuellement ou en entreprise et de le rendre durable.",
+      "home-about-text3":"Notre vision en tant que Mergen Collaboration & Consultancy ; être une société de conseil centrée sur le client, innovante, respectée et mondiale qui agit selon les principes fondamentaux d'honnêteté et de transparence.",
+      "home-about-text4":"En plaçant les principes d'accessibilité et de transparence au centre de nos processus d'affaires, nous voulons répondre à vos besoins en les abordant de manière multidisciplinaire avec des études et analyses de marché, des solutions pratiques, de vastes réseaux de partenariats commerciaux, des processus d'assistance juridique.",
+      "home-about-text5":"Nous traitons les demandes de nos clients de la manière la plus méticuleuse du début à la fin de nos processus commerciaux, et nous communiquons régulièrement à nos clients de manière précise, compréhensible et complète. Dans tous nos processus commerciaux, nous fournissons des services en turc, anglais et français selon les préférences de nos clients. Nos activités de conseil se poursuivent 24 heures sur 24, 7 jours sur 7, tandis que nos autres processus commerciaux se poursuivent entre 09h00 et 18h00 sauf le dimanche.",
+
+      "descCard":[
+        {
+           "id":"1",
+           "title":"Technologies de L'Information",
+           "description":"Nous sommes à votre service avec des solutions technologiques innovantes et à jour avec la conception et le développement de sites Web...",
+           "image":"fa fa-laptop"
+        },
+        {
+           "id":"2",
+           "title":"Programmes d'enseignement supérieur et d'échange d'étudiants",
+           "description":"Nous fournissons des services de conseil avant, pendant et après la candidature pour les étudiants étrangers qui ...",
+           "image":"fa fa-book"
+        },
+        {
+           "id":"3",
+           "title":"Commerce extérieur et dédouanement et logistique",
+           "description":"Nous fournissons des services de conseil concernant toutes sortes d'affaires et de transactions, ce qui doit être fait ...",
+           "image":"fa fa-globe"
+        },
+        {
+           "id":"4",
+           "title":"Immobilier commercial, résidentiel et industriel",
+           "description":"Nous offrons des solutions pour vos demandes immobilières commerciales, résidentielles ou industrielles qui répondent aux...",
+           "image":"fa fa-building"
+        },
+        {
+           "id":"5",
+           "title":"Droit",
+           "description":"Nous fournissons des solutions de conseil et de partenariat d'affaires dans le domaine du droit avec nos services de médiation et de préparation...",
+           "image":"fa fa-solid fa-gavel"
+        },
+        {
+           "id":"6",
+           "title":"Entreprises et particuliers",
+           "description":"Nous vous servons en entreprise ou individuellement avec nos activités de conseil aux entreprises et autres activités de conseil administratif...",
+           "image":"fa fa-gears"
+        }
+     ],
+     "why-us-title":"Pourquoi nous choisir",
+     "why-us-text-title-1":"Transparence",
+     "why-us-text-text-1":"En tant que famille Mergen, nous nous engageons à présenter des informations sur tous nos processus commerciaux, à l'exception des secrets commerciaux, de manière opportune, précise, compréhensible et complète. Nous répondons dans les plus brefs délais sur la base du 24.",
+     "why-us-text-title-2":"Accessibilité",
+     "why-us-text-text-2":"Nous maintenons toujours notre objectif de mener nos processus commerciaux en turc, anglais et français en mettant l'accent sur la satisfaction du client, et nous répondons aux demandes de nos clients dès que possible sur une base 24h/24 et 7j/7.",
+     "name-surname":"Prénom / nom de famille",
+     "email":"Email",
+     "subject":"Sujet",
+     "form-message":"Veuillez écrire votre message ici..",
+     "send" : "Envoyer",
+     "Contact-information":"Coordonnées",
+
+
+     "Information-Technologies":{
+      "id":"0",
+      "title":"Technologies de L'Information",
+      "image":"assets/images/altsayfa-bilişim.png",
+       "description":{"text1":"Les services de technologie de l'information couvrent un large éventail de services qui répondent aux besoins technologiques des entreprises. Ces services peuvent inclure le support matériel et logiciel, la gestion du réseau et de l'infrastructure, la cybersécurité et la planification stratégique pour l'investissement et la mise en œuvre de la technologie.",
+         "text2":"La portée des services informatiques peut être assez large et couvre une variété de domaines tels que :",
+         "subtitle1":"Gestion de l'infrastructure informatique, y compris les serveurs, les réseaux et les bases de données",
+         "subtitle2":"Cloud computing et virtualisation",
+         "subtitle3":"Développement de logiciels et support d'applications",
+         "subtitle4":"Cybersécurité et protection des données",
+         "subtitle5":"Service d'assistance et support technique",
+         "subtitle6":"Conseil en planification stratégique et technologie",
+         "subtitle7":"Continuité des activités et reprise après sinistre",
+         "text3":"Les services informatiques sont essentiels pour que les entreprises de toutes tailles et de tous secteurs fonctionnent efficacement et en toute sécurité dans l'environnement numérique d'aujourd'hui. Les fournisseurs de services informatiques peuvent aider les entreprises à utiliser les dernières technologies et outils pour augmenter la productivité, l'efficacité et la rentabilité tout en minimisant les risques. ",
+         "text4":"L'un des principaux avantages de travailler avec un fournisseur de services informatiques est l'accès à son expertise et à ses connaissances du secteur. Les fournisseurs ont une compréhension approfondie des dernières tendances et des meilleures pratiques dans l'industrie technologique, ainsi que des menaces et des risques auxquels sont confrontées les entreprises. Ces connaissances peuvent être inestimables lorsqu'il s'agit de prendre des décisions éclairées sur les investissements et la mise en œuvre de la technologie.",
+         "text5":"Les services informatiques peuvent être personnalisés pour répondre aux besoins spécifiques de chaque client. Cela peut inclure la fourniture d'un support et d'une maintenance continus pour l'infrastructure informatique existante d'une entreprise ou le développement et la mise en œuvre de nouvelles solutions technologiques pour répondre à des besoins commerciaux spécifiques.L'objectif des services informatiques est d'aider les entreprises à tirer parti de la technologie pour atteindre leurs objectifs commerciaux et maximiser leur potentiel de réussite. Les entreprises qui travaillent avec un fournisseur de services informatiques qualifié peuvent bénéficier de conseils d'experts et de conseils qui peuvent les aider à naviguer dans le paysage technologique complexe et en constante évolution. En tant que « Mergen Collaboration & Consultancy », nous visons à fournir des services de conseil informatique qualifiés."
+      }
+   },
+   "Education":  {
+      "id":"1",
+      "title":"Programmes D'Enseignement Supérieur & D'Échange D'Étudiants",
+      "image":"assets/images/altsayfa-eğitim.png",
+      "description":{
+         "text1":"L'enseignement supérieur fait référence à l'éducation postsecondaire que les individus reçoivent après avoir terminé leurs études secondaires. Cela peut inclure des diplômes de licence, de maîtrise et des programmes professionnels tels que le droit ou la médecine. L'enseignement supérieur est une étape cruciale pour préparer les individus à des carrières et leur fournir les connaissances et les compétences nécessaires pour réussir dans le domaine de leur choix.",
+         "text2":"Les programmes d'échange d'étudiants sont un type de programme d'éducation qui permet aux étudiants d'étudier à l'étranger et d'acquérir une expérience internationale. Ces programmes offrent aux étudiants la possibilité de s'immerger dans une nouvelle culture, d'apprendre une nouvelle langue et d'acquérir des compétences précieuses qui peuvent faire progresser leur carrière universitaire et professionnelle.",
+         "text3":"L'enseignement supérieur et les programmes d'échange d'étudiants sont étroitement liés, car de nombreuses universités et collèges proposent des programmes d'échange à leurs étudiants dans le cadre de leur expérience d'enseignement supérieur. Ces programmes peuvent être un excellent moyen pour les étudiants d'élargir leurs horizons, d'acquérir une expérience précieuse et de se connecter avec des personnes du monde entier.",
+         "text4":"L'enseignement supérieur et les programmes d'échange d'étudiants peuvent avoir un impact significatif sur les individus et la société dans son ensemble. Ils peuvent conduire à une sensibilisation et une compréhension culturelles accrues, au développement de compétences précieuses et à la création d'une main-d'œuvre plus tournée vers le monde. Ils peuvent également offrir aux individus des opportunités d'explorer leurs intérêts et leurs passions, d'explorer de nouveaux cheminements de carrière et de faire une différence dans le monde.",
+         "text5":"Ces dernières années, il y a eu une tendance croissante à l'internationalisation de l'enseignement supérieur, avec plus d'universités et de collèges offrant des programmes d'échange et d'autres opportunités internationales à leurs étudiants. Cette tendance devrait se poursuivre alors que la mondialisation continue de façonner le monde dans lequel nous vivons.",
+         "text6":"Par conséquent, l'enseignement supérieur et les programmes d'échange d'étudiants sont des éléments essentiels de l'environnement éducatif. Il fournit aux individus les compétences, les connaissances et l'expérience nécessaires pour réussir dans le monde globalisé d'aujourd'hui et contribuer à une société plus culturellement consciente et connectée.",
+         "text7":"En tant que famille Mergen, nous fournissons des services de conseil avant, pendant et après la candidature aux étudiants étrangers qui souhaitent suivre une formation de premier cycle, de deuxième cycle et de doctorat en Turquie. De plus, nous sommes à votre service avec des programmes d'échanges d'étudiants d'universités ou d'organisations non gouvernementales et avec nos solutions pour l'éducation à l'étranger, qui a une importance cruciale dans la vie de l'éducation. Parallèlement, nous servons nos clients turcs qui souhaitent contribuer à leur éducation à l'étranger par le biais de programmes d'études supérieures ou d'échanges d'étudiants."
+      
+      }
+   },
+   "Foreign Trade":  {
+      "id":"2",
+      "title":"Commerce Extérieur & Dédouanement & Logistique",
+      "image":"assets/images/altsayfa-dış ticaret.png",
+      "description":{
+         "text1":"Les services de conseil en commerce extérieur, douane et logistique fournissent des conseils d'experts et des conseils aux entreprises engagées dans le commerce international. Ces services peuvent aider les entreprises à naviguer dans l'environnement commercial mondial complexe et en constante évolution, y compris les lois, les réglementations et la logistique liées à l'importation et à l'exportation de marchandises.",
+         "text2":"La portée de ces services de conseil peut couvrir un large éventail de domaines, notamment :",
+         "subtitle1":"Lois et réglementations commerciales internationales",
+         "subtitle2":"Conformité douanière et documentation",
+         "subtitle3":"Classement tarifaire et valorisation",
+         "subtitle4":"Financement commercial et méthodes de paiement",
+         "subtitle5":"Gestion des transports et de la logistique",
+         "subtitle6":"Optimisation de la chaîne d'approvisionnement et gestion des risques",
+         "subtitle7":"Dédouanement",
+         "subtitle8":"Services d'entrepôt",
+         "text3":"Les consultants en commerce extérieur, douanes et logistique peuvent aider les entreprises dans diverses tâches, telles que l'obtention de licences d'importation et d'exportation, le respect des réglementations douanières et la gestion des expéditions internationales. Ils peuvent également fournir des conseils sur l'optimisation des processus de la chaîne d'approvisionnement et la minimisation des risques.",
+         "text4":"L'un des principaux avantages de travailler avec un consultant en commerce extérieur, douane et logistique est l'accès à son expertise et à sa connaissance du secteur. Les consultants ont une compréhension approfondie des règles et réglementations complexes régissant le commerce international, ainsi que de la logistique et de l'expédition impliquées dans l'expédition transfrontalière de marchandises. Ces connaissances peuvent être inestimables lorsqu'il s'agit d'éviter des erreurs coûteuses et d'assurer la conformité réglementaire.",
+         "text5":"Les services de conseil en commerce extérieur, douane et logistique peuvent être personnalisés pour répondre aux besoins spécifiques de chaque client. Cela peut inclure la fourniture d'études et d'analyses de marché détaillées, le développement de modèles financiers pour évaluer les investissements potentiels ou la fourniture d'un soutien et de conseils continus pour la gestion logistique et l'optimisation de la chaîne d'approvisionnement.",
+         "text6":"En fin de compte, le but du conseil en commerce extérieur, douane et logistique est d'aider les entreprises engagées dans le commerce international à atteindre leurs objectifs et à maximiser leur potentiel de réussite. Les entreprises qui travaillent avec un consultant qualifié peuvent bénéficier de conseils et d'orientations d'experts qui peuvent les aider à naviguer dans le paysage commercial mondial complexe et en constante évolution.",
+         "text7":"Tout ce que vous avez à faire pour vos transactions d'importation et d'exportation individuelles ou corporatives est de nous contacter. Nous aimerions offrir des solutions en complétant les services mentionnés ci-dessus de la manière la plus sûre, la plus rapide et la plus sûre pour vous avec nos partenaires commerciaux expérimentés et experts."
+
+      }
+   },
+   "Commercial":  {
+      "id":"3",
+      "title":"Immobilier Commercial, Résidentiel & Industriel",
+      "image":"assets/images/altsayfa-gayrimenkul.png",
+      "description":{
+         "text1":"Le conseil immobilier est un service professionnel qui fournit des conseils d'experts sur les questions immobilières. Le rôle d'un agent immobilier est de fournir des conseils sur une variété de questions liées à l'immobilier. Il peut s'agir de conseiller les clients sur la façon d'acheter ou de vendre une propriété, de les aider à identifier les opportunités d'investissement potentielles ou de les aider dans la gestion immobilière. Les consultants immobiliers peuvent également soutenir les projets de développement immobilier, y compris la sélection du site, les études de faisabilité et la gestion de projet.",
+         "text2":"L'un des principaux avantages de travailler avec un consultant est l'accès à son expertise et à sa connaissance de l'industrie. Les conseillers ont une compréhension approfondie du marché immobilier, y compris les tendances actuelles, les valeurs des propriétés et les exigences réglementaires. Ces informations peuvent être précieuses lorsqu'il s'agit de prendre des décisions éclairées sur les transactions immobilières.",
+         "text3":"Les services de conseil en immobilier peuvent être personnalisés pour répondre aux besoins spécifiques de chaque client. Cela peut inclure la fourniture d'études et d'analyses de marché détaillées, l'élaboration de modèles financiers pour évaluer les investissements potentiels ou la fourniture d'un soutien et de conseils continus pour la gestion immobilière.",
+         "text4":"En fin de compte, l'objectif du conseil en immobilier est d'aider les clients à prendre des décisions éclairées concernant les investissements immobiliers. En travaillant avec un consultant qualifié, les particuliers et les entreprises peuvent bénéficier de conseils d'experts et de conseils qui peuvent les aider à atteindre leurs objectifs immobiliers.",
+         "text5":"En tant que Famille Mergen, nous sommes à votre service pour vos demandes immobilières commerciales, résidentielles ou industrielles (agricoles, d'élevage, d'énergie et de production, etc.). Notre objectif est de répondre rapidement à vos besoins dans le secteur immobilier, notamment avec l'analyse du marché, la détermination du portefeuille avec notre solide réseau, l'analyse financière, le contrôle juridique et le contrôle des immeubles."
+      }
+   },   
+   "Law" :   
+    {
+      "id":"4",
+      "title":"Droit",
+      "image":"assets/images/altsayfa-hukuk.png",
+      "description":{
+            
+         "text1":"Nous proposons des solutions de conseil et de partenariat d'affaires dans le domaine du droit avec nos services de médiation et de préparation de contrats individuels ou commerciaux ainsi qu’immobilier, commerce, entreprise, zonage, succession, famille, fiscalité, pénal, santé, transformation urbaine, assurance, location, exécution, droit des étrangers.Les services de conseil juridique fournissent aux entreprises et aux particuliers des conseils d'experts et des conseils sur des questions juridiques. Ces services peuvent couvrir un large éventail de domaines tels que le droit des sociétés, le droit du travail, le droit de la propriété intellectuelle, le droit des contrats et le contentieux.",
+         "text2":"La portée des services de conseil juridique peut être assez large et couvrir une variété de domaines tels que :",
+         "subtitle1":"Rédaction et revue de contrat",
+         "subtitle2":"Droit immobilier",
+         "subtitle3":"Droit commercial",
+         "subtitle4":"Droit du travail et de l'emploi",
+         "subtitle5":"Droit de la famille et des successions",
+         "subtitle6":"Droit fiscal",
+         "subtitle7":"Loi criminelle",
+         "subtitle8":"Droit de la santé",
+         "subtitle9":"Droit de l'exécution",
+         "subtitle10":"Loi sur les étrangers",
+         "subtitle11":"Processus de transformation urbaine",
+         "subtitle12":"Protection et application de la propriété intellectuelle",
+         "subtitle13":"Contentieux et règlement des différends",
+         "subtitle14":"Conformité légale et gestion des risques",
+         "subtitle15":"Fusions et acquisitions",
+
+         "text3":"Les conseillers juridiques peuvent travailler avec des clients sur des projets spécifiques, tels que la rédaction et la négociation de contrats ou la représentation juridique devant les tribunaux. Ils peuvent également fournir un soutien et des conseils continus pour aider les entreprises à se conformer aux réglementations et à surmonter des problèmes juridiques complexes.",
+         "text4":"L'un des principaux avantages de travailler avec un conseiller juridique est l'accès à son expertise et à sa connaissance de l'industrie. Les consultants ont une connaissance approfondie de l'environnement juridique, y compris des lois, réglementations et meilleures pratiques en vigueur. Ces connaissances peuvent être inestimables lorsqu'il s'agit de prendre des décisions juridiques éclairées et d'éviter des litiges juridiques coûteux.",
+         "text5":"Les services de conseil juridique peuvent être personnalisés pour répondre aux besoins spécifiques de chaque client. Cela peut inclure la fourniture de recherches et d'analyses juridiques détaillées, l'élaboration de stratégies juridiques pour des objectifs commerciaux spécifiques ou la fourniture d'un soutien et de conseils continus en matière de conformité et de gestion des risques.",
+         "text6":"Les services de conseil juridique peuvent être personnalisés pour répondre aux besoins spécifiques de chaque client. Cela peut inclure la fourniture de recherches et d'analyses juridiques détaillées, l'élaboration de stratégies juridiques pour des objectifs commerciaux spécifiques ou la fourniture d'un soutien et de conseils continus en matière de conformité et de gestion des risques."
+
+      }
+   },
+   "Corporate":
+   {
+      "id":"5",
+      "title":"Conseil Aux Entreprises & Aux Particuliers",
+      "image":"assets/images/altsayfa-iş danışmanlığı.png",
+      "description":{
+         "text1":"Conseil aux entreprises : Le conseil aux entreprises est un service professionnel qui fournit des conseils et des conseils d'experts aux entreprises de toutes tailles et de tous secteurs. Le rôle d'un consultant en entreprise est d'aider les entreprises à améliorer leur performance globale, à résoudre des problèmes complexes et à atteindre leurs objectifs commerciaux. Cela peut inclure la planification stratégique, l'analyse financière, la gestion opérationnelle, les stratégies de marketing et de vente et la fourniture d'autres services spécialisés.",
+         "text2":"Certains des domaines clés où des services de conseil aux entreprises peuvent être nécessaires incluent :",
+         "subtitle1":"Élaboration et mise en œuvre de la stratégie commerciale",
+         "subtitle2":"Analyse et gestion financière",
+         "subtitle3":"Restructuration organisationnelle et conduite du changement",
+         "subtitle4":"Stratégies de marketing et de vente",
+         "subtitle5":"Optimisation de la chaîne d'approvisionnement",
+         "subtitle6":"Gestion des risques",
+         "subtitle7":"Gestion et formation des ressources humaines",
+         "subtitle8":"Technologie et transformation numérique",
+         "text3":"Conseil aux entreprises individuelles : Le conseil aux entreprises individuelles est un service professionnel qui fournit des conseils et des conseils d'experts aux entrepreneurs et aux propriétaires de petites entreprises. Le rôle d'un consultant en entreprise individuel est d'aider les individus à surmonter les défis liés au démarrage, à la croissance et à la gestion de leur propre entreprise. Cela peut inclure des conseils sur une gamme de questions telles que la planification d'entreprise, le marketing, les ventes, la gestion financière et l'efficacité opérationnelle.",
+         "text4":"Certains des domaines clés où des services de conseil aux entreprises individuelles peuvent être nécessaires incluent :",
+         "subtitle9":"Planification d'entreprise et conseils de démarrage",
+         "subtitle10":"Planification d'entreprise et conseils de démarrage",
+         "subtitle11":"Planification d'entreprise et conseils de démarrage",
+         "subtitle12":"Stratégies de vente et prospects",
+         "text5":"En tant que famille Mergen, nous visons à apporter une valeur ajoutée à nos clients dans tous les processus en répondant à toutes vos demandes de conseil aux entreprises et aux particuliers de la manière la plus précise et la plus rapide. "
+      }
+   },
+   "View-in-detail":"View in detail"
+
+    }

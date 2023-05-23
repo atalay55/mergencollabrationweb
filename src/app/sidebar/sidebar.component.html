@@ -1,0 +1,9 @@
+<div class="side-bar">
+  <h3 class="list-title">{{'Works'|translate}} </h3><hr>
+  <div class="list-group" id="list-tab"  role="tablist" *ngFor="let item of 'descPage'|translate; let i=index;">
+    <a class="sidebar-list-item" routerLink="/page{{i+1}}"><i class="fa fa-arrow-right"></i> {{item}} </a><hr>
+
+ 
+  </div>
+</div>
+

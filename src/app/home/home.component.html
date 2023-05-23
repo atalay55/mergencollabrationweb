@@ -1,0 +1,198 @@
+<!-- carousel -->
+
+<div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="position-relative">
+          <img src="assets/images/header-1.png"   alt="Your Image" >
+          <div class="position-absolute top-50 start-50 translate-middle text-center">
+            <h1 class="text-dark">{{'Caruosel-img1-text'|translate}}</h1>
+            <p>Mergen Collaboration & Consultancy</p>
+            <div class="carbtn d-flex justify-content-center p-2  ">
+              <a  href="https://wa.me/5531105635"> <button type="button"  class="btn  mx-3">  {{'contactUs-btn-text'|translate}}</button> </a> 
+               <a routerLink="/about"><button type="button" class="btn   mx-3 ">{{'About'|translate}}</button></a> 
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative">
+          <img src="assets/images/header-2.png"   alt="Your Image" >
+          <div class="position-absolute top-50 start-50 translate-middle text-center">
+            <p class="text-light " style="font-size:25px ;margin-bottom: 100px;">{{'Caruosel-img2-text'|translate}}
+                <span style="font: size 25px;text-decoration: underline;">Mustafa Kemal Atatürk</span></p>
+              
+            <div class="carbtn d-flex justify-content-center p-2  ">
+              <button type="button" class="btn  mx-3">{{'contactUs-btn-text'|translate}}</button>
+              <button type="button" class="btn   mx-3 ">{{'About'|translate}}</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative">
+          <img src="assets/images/header-3.png"  alt="Your Image" >
+          <div class="position-absolute top-50 start-50 translate-middle text-center">
+            <p class="text-light " style="font-size:25px ;margin-bottom: 100px;">{{'Caruosel-img3-text'|translate}}
+             <div class="carbtn d-flex justify-content-center p-2  ">
+              <button type="button" class="btn  mx-3">{{'contactUs-btn-text'|translate}}</button>
+              <button type="button" class="btn   mx-3 ">{{'About'|translate}}</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+  
+
+  <!-- contact-us -->
+  <div class="contact-us ">
+    <div class="contact-text d-flex justify-context-center text-center align-item-center ">
+      <h3 > {{'contact-us-part-text'|translate}}  </h3>
+      <div class="contact-btn  ">
+        <a href="https://wa.me/5531105635"> <button type="button" class="btn mx-2 ">{{'Contact-Us'|translate}}</button></a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- home-about -->
+
+  <div class="home-about bg-light">
+    <div class="home-about-title p-3 text-center"><h3>  Istanbul - Turkey  </h3>
+    <h3 class="pt-3">Mergen Collaboration & Consultancy </h3></div>
+    <div class="home-about-text px-5 pb-5 ">
+      <p>{{'home-about-text1'|translate}}</p>
+      <p>{{'home-about-text2'|translate}}</p>
+      <p>{{'home-about-text3'|translate}}</p>  
+      <p>{{'home-about-text4'|translate}}</p>          
+      <p>{{'home-about-text5'|translate}}</p>      
+    </div>
+  </div>
+
+
+
+  <!-- card bölümü -->
+  <section class="home-card " >
+    <div class="container">
+    <div class="row ">
+      <div class="col-lg-4 col-md-6 mb-4 " *ngFor="let item of 'descCard'|translate; let i=index; ">
+        <div class="card  my-3 " >
+  
+          <i class="{{item.image}} p-3 " style="font-size: 50px; color: rgb(18, 9, 47)"></i>
+          <div class="card-body  ">
+            <h4 class="card-title  font-weight-normal">{{item.title}}</h4> 
+            <p class="card-text py-2  "> {{item.description}} </p>
+            <a routerLink="/page{{i+1}}" class=" text-decoration-none text-dark"  >{{'View-in-detail'|translate}}</a> <i class="bi bi-arrow-right"></i>
+          </div>
+        </div>
+      </div>   
+   
+    </div>
+  </div>
+    
+  </section>
+  
+
+  
+  <div class="container ">
+    <div class="why-us mx-5">
+      <div class="why-us-title">
+        <h2 class="title ">{{'why-us-title'|translate}}</h2>
+      </div>
+      <div class="why-us-text mx-5   ">
+        <div class="d-flex  flex-wrap">
+          <div class="icons   ">
+            <i   class="bi bi-people-fill mx-4 " style="font-size: 25px;"></i>  
+          </div>
+          <h4 class="why-us-text-title ">{{'why-us-text-title-1'|translate}}</h4>
+          <div>
+            <p style="width:70%" >{{'why-us-text-text-1'|translate}} </p>
+          </div>
+       </div>
+
+
+
+       <div class="d-flex  flex-wrap">
+        <div class="icons   ">
+          <i   class="bi bi-telephone-fill mx-4 " style="font-size: 25px;"></i>
+        </div>
+        <h4 class="why-us-text-title">{{'why-us-text-title-2'|translate}}</h4>
+        <div>
+          <p style="width:70%" >{{'why-us-text-text-2'|translate}}</p>
+        </div>
+     </div>
+      
+      </div>
+      
+      </div>
+  </div>
+  
+  
+  <div class="container">
+  
+    <div class="row">
+      
+        <div class="">
+            <form action="mailto:yucel@mergencollaboration.com" method="post">
+                <div class="card mt-4">
+                    <div class="card-body p-3">
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">
+                                        <i class="bi bi-person-circle text-dark"></i>
+                                    </div>
+                                </div>
+                                <input type="text" class="form-control" name="" placeholder="{{'name-surname'|translate}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">
+                                        <i class="bi bi-envelope text-dark"></i>
+                                    </div>
+                                </div>
+                                <input type="email" class="form-control" name="" placeholder="{{'email'|translate}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">
+                                        <i class="bi bi-tag text-dark"></i>
+                                    </div>
+                                </div>
+                                <input type="text" class="form-control" name="" placeholder="{{'subject'|translate}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">
+                                        <i class="bi bi-chat text-dark"></i>
+                                    </div>
+                                </div>
+                                <textarea class="form-control" placeholder="{{'form-message'|translate}}" rows="6" required></textarea>
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" value="{{'send'|translate}}" class="btn btn-dark btn-block bg-dark text-light ">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+  </div>
+  
+
+  <router-outlet></router-outlet>

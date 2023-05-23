@@ -1,0 +1,216 @@
+{
+    "Home":"Anasayfa",
+    "About": "Hakkımızda",
+    "Works":"Çalışma Alanlarımız",
+    "Contact-Us":"İletişime Geç",
+    "Contact-Us-title": "Bize Ulaşın",
+    "Contact-Us-text":"Bize Her Zaman Ulaşın, Size Memnuniyetle Yardımcı Olalım",
+    "phone": "Telefon",
+    "adress": "adres",
+    "descPage":[
+        "Bilişim Teknolojileri","Eğitim","Dış Ticaret","Gayrimenkul","Hukuk","İş Danışmanlığı"
+      ],
+    "Caruosel-img1-text":"Sitemize Hoş Geldiniz",
+    "contactUs-btn-text":"İletişime Geç",
+    "Caruosel-img2-text":"Yalnız tek bir şeye ihtiyacımız vardır, çalışkan olmak. Servet ve onun tabii neticesi olan refah ve saadet yalnız ve ancak çalışkanların hakkıdır.",
+    "Caruosel-img3-text":"Çalışma alanlarımız olan kurumsal iş danışmanlığı, gayrimenkul, dış ticaret, bilişim teknolojileri, yükseköğretim ve hukuk alanlarında ihtiyacınız olan çözümler ile sizlere bireysel veya kurumsal anlamda katkı sağlamak için buradayız.",
+    "contact-us-part-text":"Danışmanlığa ihtiyacınız var mı ? ",
+
+
+    "home-about-text1":"Mergen Collaboration & Consultancy, 2023 yılında kurulmuştur. Şirketimiz ismini Türk ve Altay mitolojisindeki Akıl Tanrısı “Mergen”den almaktadır. Aklı, zekayı ve bilgeliği temsil eder. Bilgeliğiyle hedefini şaşırmaz. İnsanlara bilgelik verir. Bilimi ve felsefeyi simgeler.",
+    "home-about-text2":"Mergen Collaboration & Consultancy olarak misyonumuz, çalışma alanlarımız olan kurumsal iş danışmanlığı, gayrimenkul, dış ticaret, bilişim teknolojileri, eğitim ve hukuk alanlarında ihtiyacınız olan çözümleri sistematik bir şekilde uygulamak, bireysel veya kurumsal anlamda katkı sağlamak ve bunu sürdürülebilir hale getirmektir.",
+    "home-about-text3":"Mergen Collaboration & Consultancy olarak vizyonumuz; dürüstlük ve şeffaflık temel ilkeleri ile hareket eden, müşteri merkezli, yenilikçi, saygın ve global bir danışmanlık firması olmaktır.",
+    "home-about-text4":"Ulaşılabilirlik ve şeffaflık ilkelerini iş süreçlerimizin merkezine koyarak piyasa araştırması & analizi, pratik çözümlerimiz, geniş iş ortaklık ağlarımız, hukuki destek süreçleri ile ihtiyaçlarınızı multidisipliner bir şekilde ele alarak onlara cevap vermek istiyoruz",
+    "home-about-text5":"Müşterilerimizin taleplerini iş süreçlerimizin en başından en sonuna kadar en titiz şekilde ele alıyor, düzenli aralıklarla doğru, anlaşılabilir ve kapsamlı şekilde müşterilerimize raporlamalar yapıyoruz. Tüm iş süreçlerimizde müşterilerimizin tercihine bağlı olarak Türkçe, İngilizce ve Fransızca olarak hizmet vermekteyiz. Danışmanlık faaliyetlerimiz 7/24 esasına dayalı olarak, diğer iş süreçlerimiz ise pazar günü haricinde 09.00-18.00 arasında devam etmektedir. ",
+ 
+    "descCard":[
+        {
+           "id":"1",
+           "title":"Bilişim Teknolojileri",
+           "description":"Bilişim teknolojileri alanında ihtiyacınız olan web tasarım ve geliştirme, mobil uygulama geliş...",
+           "image":"fa fa-laptop"
+        },
+        {
+           "id":"2",
+           "title":"Eğitim",
+           "description":"Türkiye’de lisans, yüksek lisans ve doktora eğitimi almak isteyen yabancı öğrenciler için başvuru öncesi...",
+           "image":"fa fa-book"
+        },
+        {
+           "id":"3",
+           "title":"Dış Ticaret",
+           "description":"Tüm ithalat, ihracat, dahilde işleme, hariçte işleme, geçici ithalat vb. dış ticaret işlemlerinde ...",
+           "image":"fa fa-globe"
+        },
+        {
+           "id":"4",
+           "title":"Gayrimenkul",
+           "description":"Müşterilerimizin ihtiyaçlarına cevap veren ticari, konut veya endüstriyel gayrimenkul...",
+           "image":"fa fa-building"
+        },
+        {
+           "id":"5",
+           "title":"Hukuk",
+           "description":"Gayrimenkul, ticaret, iş, imar, miras, aile, vergi, ceza, sağlık, kentsel dönüşüm, sigorta,kira...",
+           "image":"fa fa-solid fa-gavel"
+        },
+        {
+           "id":"6",
+           "title":"İş Danışmanlığı",
+           "description":"Kurumsal veya bireysel olarak işletme ve diğer idari danışmanlık faaliyetlerimizle...",
+           "image":"fa fa-gears"
+        }
+     ],
+     "why-us-title":"Neden Bizi Seçmelisiniz?",
+     "why-us-text-title-1":"Şeffaflık",
+     "why-us-text-text-1":"Mergen ailesi olarak, ticari sırlar haricinde tüm iş süreçlerimize ait bilgileri zamanında, doğru, anlaşılabilir ve kapsamlı bir biçimde sunacağımızı taahhüt ederiz.Ulaşılabilirlik : İş süreçlerimizi Türkçe, İngilizce ve Fransızca olarak müşteri memnuniyeti odaklı bir şekilde yürütme hedefimizi her daim sürdürüyor, müşterilerimizin taleplerine 7/24 esasıyla en kısa sürede cevap veriyoruz.",
+     "why-us-text-title-2":"Ulasabilirlik",
+     "why-us-text-text-2":"İş süreçlerimizi Türkçe, İngilizce ve Fransızca olarak müşteri memnuniyeti odaklı bir şekilde yürütme hedefimizi her daim sürdürüyor, müşterilerimizin taleplerine 7/24 esasıyla en kısa sürede cevap veriyoruz.",
+     "name-surname":"Adı Soyadı",
+     "email":"E-Posta",
+     "subject":"Konu",
+     "form-message":"Lütfen Mesajınızı Buraya Yazın..",
+     "send": "Gönder",
+     "Contact-information":"İletişim Bilgileri",
+
+
+
+
+     "Information-Technologies": {
+      "id":"0",
+      "title":"Bilişim Teknolojileri",
+      "image":"assets/images/altsayfa-bilişim.png",
+      "description":{"text1":"Bilgi teknolojisi hizmetleri, işletmelerin teknoloji ihtiyaçlarına destek sağlayan geniş bir hizmet yelpazesini kapsar. Bu hizmetler arasında donanım ve yazılım desteği, ağ ve altyapı yönetimi, siber güvenlik ve teknoloji yatırımı ve uygulaması için stratejik planlama yer alabilir.",
+         "text2":"BT hizmetlerinin kapsamı oldukça geniş olabilir ve aşağıdakiler gibi çeşitli alanları kapsar:",
+         "subtitle1":"Sunucular, ağlar ve veri tabanları dahil olmak üzere BT altyapı yönetimi",
+         "subtitle2":"Bulut bilişim ve sanallaştırma",
+         "subtitle3":"Yazılım geliştirme ve uygulama desteği",
+         "subtitle4":"Siber güvenlik ve veri koruması",
+         "subtitle5":"Yardım masası ve teknik destek",
+         "subtitle6":"Stratejik planlama ve teknoloji danışmanlığı",
+         "subtitle7":"İş sürekliliği ve felaket kurtarma",
+         "text3":"Bir BT hizmetleri sağlayıcısıyla çalışmanın en önemli faydalarından biri, uzmanlıklarına ve endüstri bilgilerine erişimdir. Sağlayıcılar, teknoloji endüstrisindeki en son trendler ve en iyi uygulamaların yanı sıra işletmelerin karşı karşıya olduğu tehditler ve riskler hakkında derin bir anlayışa sahiptir. Bu bilgi, teknoloji yatırımları ve uygulama hakkında bilinçli kararlar vermek söz konusu olduğunda paha biçilmez olabilir.",
+         "text4":"BT hizmetleri, bireysel müşterilerin özel ihtiyaçlarını karşılamak için özelleştirilebilir. Bu, bir şirketin mevcut BT altyapısı için sürekli destek ve bakım sağlamayı veya belirli iş ihtiyaçlarını karşılamak için yeni teknoloji çözümleri geliştirmeyi ve uygulamayı içerebilir.",
+         "text5":"BT hizmetlerinin amacı, işletmelerin iş hedeflerine ulaşmak ve başarı potansiyellerini en üst düzeye çıkarmak için teknolojiden yararlanmalarına yardımcı olmaktır. Nitelikli bir BT hizmetleri sağlayıcısıyla çalışan işletmeler, karmaşık ve sürekli gelişen teknoloji ortamında gezinmelerine yardımcı olabilecek uzman tavsiyesi ve rehberliğinden yararlanabilir. “Mergen Collaboration & Consultancy” olarak nitelikli BT danışmanlık hizmetleri sunmayı hedefliyoruz."
+      }
+      },
+
+
+
+      "Education":  {
+         "id":"1",
+         "title":"Eğitim",
+         "image":"assets/images/altsayfa-eğitim.png",
+         "description":{
+         "text1":"Yüksek öğretim, bireylerin liseyi tamamladıktan sonra aldıkları orta öğretim sonrası eğitimi ifade eder. Bu, lisans derecelerini, yüksek lisans derecelerini ve hukuk veya tıp gibi profesyonel programları içerebilir. Yüksek öğrenim, bireyleri kariyerlere hazırlamada ve onlara seçtikleri alanda başarılı olmaları için gerekli bilgi ve becerileri sağlamada çok önemli bir adımdır.",
+         "text2":"Öğrenci değişim programları, öğrencilerin yurtdışında eğitim görmelerini ve uluslararası deneyim kazanmalarını sağlayan bir eğitim programı türüdür. Bu programlar, öğrencilere kendilerini yeni bir kültüre kaptırma, yeni bir dil öğrenme ve akademik ve profesyonel kariyerlerini geliştirebilecek değerli beceriler kazanma fırsatı sunar.",
+         "text3":"Birçok üniversite ve kolej, öğrencilerine yüksek öğrenim deneyimlerinin bir parçası olarak değişim programları sunduğundan, yüksek öğrenim ve öğrenci değişim programları yakından ilişkilidir. Bu programlar, öğrencilerin ufuklarını genişletmeleri, değerli deneyimler kazanmaları ve dünyanın her yerinden insanlarla bağlantı kurmaları için mükemmel bir yol olabilir.",
+         "text4":"Yüksek öğretim ve öğrenci değişim programları, bireyler ve bir bütün olarak toplum üzerinde önemli bir etkiye sahip olabilir. Kültürel farkındalığın ve anlayışın artmasına, değerli becerilerin geliştirilmesine ve daha küresel düşünen bir iş gücünün yaratılmasına yol açabilirler. Ayrıca bireylere ilgi alanlarını ve tutkularını keşfetme, yeni kariyer yolları keşfetme ve dünyada bir fark yaratma fırsatları sağlayabilirler.",
+         "text5":"Son yıllarda, öğrencilerine değişim programları ve diğer uluslararası fırsatlar sunan daha fazla üniversite ve kolej ile yüksek öğrenimde uluslararasılaşmaya doğru artan bir eğilim olmuştur. Küreselleşme yaşadığımız dünyayı şekillendirmeye devam ettikçe bu eğilimin devam etmesi bekleniyor.",
+         "text6":"Sonuç olarak, yüksek öğretim ve öğrenci değişim programları, eğitim ortamının kritik bileşenleridir. Bireylere günümüzün küreselleşen dünyasında başarılı olmak için gerekli beceri, bilgi ve deneyimi sağlar ve kültürel açıdan daha bilinçli ve bağlantılı bir topluma katkıda bulunur.",
+         "text7":"Mergen Ailesi olarak, Türkiye’de lisans, yüksek lisans ve doktora eğitimi almak isteyen yabancı öğrenciler için başvuru öncesi, başvuruda ve sonrasında danışmanlık hizmetleri sunmaktayız. Ayrıca üniversite veya sivil toplum kuruluşlarının öğrenci değişim programları ile eğitim hayatında kritik bir öneme sahip olan yurtdışında eğitim hususunda çözümlerimizle hizmetinizdeyiz. Eş zamanlı olarak, yükseköğrenim veya öğrenci değişim programları ile eğitim hayatına yurtdışında katkı sağlamak isteyen Türk danışanlarımıza da hizmet vermekteyiz. "
+      
+      }
+      },
+
+
+
+      "Foreign Trade":    {
+         "id":"2",
+         "title":"Dış Ticaret & Gümrükleme & Lojistik",
+         "image":"assets/images/altsayfa-dış ticaret.png",
+         "description":{
+         "text1":"Dış ticaret, gümrük ve lojistik danışmanlık hizmetleri, uluslararası ticaretle uğraşan işletmelere uzman tavsiyesi ve rehberlik sağlar. Bu hizmetler, işletmelerin mal ithalatı ve ihracatıyla ilgili yasalar, yönetmelikler ve lojistik dahil olmak üzere karmaşık ve sürekli gelişen küresel ticaret ortamında gezinmesine yardımcı olabilir.",
+         "text2":"Bu danışmanlık hizmetlerinin kapsamı, aşağıdakiler de dahil olmak üzere çok çeşitli alanları kapsayabilir:",
+         "subtitle1":"Uluslararası ticaret kanunları ve düzenlemeleri",
+         "subtitle2":"Gümrük uyumluluğu ve dokümantasyon",
+         "subtitle3":"Tarife sınıflandırması ve değerlemesi",
+         "subtitle4":"Ticaret finansmanı ve ödeme yöntemleri",
+         "subtitle5":"Nakliye ve lojistik yönetimi",
+         "subtitle6":"Tedarik zinciri optimizasyonu ve risk yönetimi",
+         "subtitle7":"Gümrükleme",
+         "subtitle8":"Antrepo hizmetleri",
+         "text3":"Dış ticaret, gümrük ve lojistik danışmanları, işletmelere ithalat ve ihracat lisansları almak, gümrük mevzuatına uymak ve uluslararası gönderileri yönetmek gibi çeşitli görevlerde yardımcı olabilir. Ayrıca tedarik zinciri süreçlerini optimize etme ve riski en aza indirme konusunda rehberlik sağlayabilirler",
+         "text4":"Bir dış ticaret, gümrük ve lojistik danışmanıyla çalışmanın en önemli faydalarından biri, uzmanlıklarına ve sektör bilgilerine erişimdir. Danışmanlar, uluslararası ticareti yöneten karmaşık kural ve düzenlemelerin yanı sıra malların sınır ötesi nakliyesinde yer alan lojistik ve nakliye hakkında derin bir anlayışa sahiptir. Bu bilgi, konu yüksek maliyetli hatalardan kaçınmak ve düzenlemelere uygunluğu sağlamak olduğunda paha biçilmez olabilir.",
+         "text5":"Dış ticaret, gümrük ve lojistik danışmanlık hizmetleri, bireysel müşterilerin özel ihtiyaçlarını karşılamak için özelleştirilebilir. Bu, ayrıntılı pazar araştırması ve analizi sağlamayı, potansiyel yatırımları değerlendirmek için finansal modeller geliştirmeyi veya lojistik yönetimi ve tedarik zinciri optimizasyonu için sürekli destek ve tavsiye sağlamayı içerebilir.",
+         "text6":"Nihayetinde dış ticaret, gümrük ve lojistik danışmanlığının amacı, uluslararası ticaretle uğraşan işletmelerin hedeflerine ulaşmalarına ve başarı potansiyellerini en üst düzeye çıkarmalarına yardımcı olmaktır. Nitelikli bir danışmanla çalışan işletmeler, karmaşık ve sürekli gelişen küresel ticaret ortamında gezinmelerine yardımcı olabilecek uzman tavsiyesi ve rehberliğinden yararlanabilir.",
+         "text7":"Bireysel veya kurumsal olarak ithalat &ihracat işlemleriniz için yapmanız tek gereken bize ulaşmak. Yukarıda belirttiğimiz hizmetleri tecrübeli çalışan ve işinde uzman iş ortaklarımızla sizin için en risksiz, güvenli ve hızlı şekilde tamamlayarak çözümler sunmak isteriz."
+
+      }
+      },
+
+      "Commercial":  {
+         "id":"3",
+         "title":"Ticari & Konut & Endüstriyel Gayrimenkul",
+         "image":"assets/images/altsayfa-gayrimenkul.png",
+         "description":{
+         "text1":"Gayrimenkul danışmanlığı, gayrimenkul konularında uzman tavsiyesi veren profesyonel bir hizmettir. Bir gayrimenkul danışmanının rolü, gayrimenkulle ilgili çeşitli konularda rehberlik sağlamaktır. Bu, müşterilere bir mülkün nasıl satın alınacağı veya satılacağı konusunda tavsiyelerde bulunmayı, potansiyel yatırım fırsatlarını belirlemelerine yardımcı olmayı veya mülk yönetimi konusunda onlara yardımcı olmayı içerebilir. Gayrimenkul danışmanları ayrıca yer seçimi, fizibilite çalışmaları ve proje yönetimi dahil olmak üzere mülk geliştirme projelerine destek sağlayabilir.",
+         "text2":"Bir danışman ile çalışmanın en önemli faydalarından biri, uzmanlıklarına ve sektör bilgilerine erişimdir. Danışmanlar, mevcut trendler, mülk değerleri ve düzenleyici gereklilikler dahil olmak üzere emlak piyasası hakkında derin bir anlayışa sahiptir. Gayrimenkul işlemleri hakkında bilinçli kararlar vermek söz konusu olduğunda bu bilgi paha biçilmez olabilir.",
+         "text3":"Gayrimenkul danışmanlığı hizmetleri, bireysel müşterilerin özel ihtiyaçlarını karşılamak için özelleştirilebilir. Bu, ayrıntılı pazar araştırması ve analizi sağlamayı, potansiyel yatırımları değerlendirmek için finansal modeller geliştirmeyi veya mülk yönetimi için sürekli destek ve tavsiye sağlamayı içerebilir.",
+         "text4":"Nihayetinde, gayrimenkul danışmanlığının amacı, müşterilerin gayrimenkul yatırımları hakkında bilinçli kararlar almalarına yardımcı olmaktır. Nitelikli bir danışmanla çalışarak bireyler ve işletmeler, gayrimenkul hedeflerine ulaşmalarına yardımcı olabilecek uzman tavsiyesi ve rehberliğinden yararlanabilir.",
+         "text5":"Mergen Ailesi olarak, ticari, konut veya endüstriyel (tarım, hayvancılık, enerji ve üretim vb.) gayrimenkul talepleriniz için hizmetinizdeyiz. Özellikle piyasa analizi, güçlü bağlantı ağımızla portföyün belirlenmesi, finansal analiz, hukuki kontrol ve yapı kontrolü ile gayrimenkul sektöründe ihtiyaçlarınıza hızlıca cevap vermeyi hedefliyoruz."
+      }
+      },
+
+      "Law" :   
+      {
+         "id":"4",
+         "title":"Hukuk",
+         "image":"assets/images/altsayfa-hukuk.png",
+         "description":{
+            
+         "text1":"Hukuk danışmanlığı hizmetleri, işletmelere ve bireylere hukuki konularda uzman tavsiyesi ve rehberlik sağlar. Bu hizmetler, şirketler hukuku, iş hukuku, fikri mülkiyet hukuku, sözleşmeler hukuku ve dava takibi gibi çok çeşitli alanları içerebilir",
+         "text2":"Hukuk danışmanlığı hizmetlerinin kapsamı oldukça geniş olabilir ve aşağıdakiler gibi çeşitli alanları kapsar:",
+         "subtitle1":"Sözleşme taslağı hazırlama ve inceleme",
+         "subtitle2":"Gayrimenkul hukuku",
+         "subtitle3":" Ticaret hukuku",
+         "subtitle4":"İş ve istihdam hukuku",
+         "subtitle5":"Aile ve miras hukuku",
+         "subtitle6":"Vergi hukuku",
+         "subtitle7":"Ceza hukuku",
+         "subtitle8":"Sağlık hukuku",
+         "subtitle9":"İcra hukuku",
+         "subtitle10":"Yabancılar hukuku",
+         "subtitle11":"Kentsel dönüşüm süreci",
+         "subtitle12":"Fikri mülkiyet koruması ve yaptırımı",
+         "subtitle13":"Dava ve uyuşmazlık çözümü",
+         "subtitle14":"Yasal uyumluluk ve risk yönetimi",
+         "subtitle15":"Birleşme ve devralmalar",
+
+         "text3":"Hukuk danışmanları, sözleşmelerin hazırlanması ve müzakere edilmesi veya mahkemede yasal temsil sağlanması gibi belirli projelerde müvekkillerle birlikte çalışabilir. Ayrıca, işletmelerin yasal düzenlemelere uymasına ve karmaşık yasal sorunların üstesinden gelmesine yardımcı olmak için sürekli destek ve rehberlik sağlayabilirler.",
+         "text4":"Bir hukuk danışmanıyla çalışmanın en önemli faydalarından biri, uzmanlıklarına ve sektör bilgilerine erişimdir. Danışmanlar, mevcut yasalar, yönetmelikler ve en iyi uygulamalar dahil olmak üzere yasal ortam hakkında derin bir anlayışa sahiptir. Bu bilgi, yasal konularda bilinçli kararlar verme ve maliyetli yasal anlaşmazlıklardan kaçınma söz konusu olduğunda paha biçilmez olabilir.",
+         "text5":"Hukuk danışmanlığı hizmetleri, bireysel müvekkillerin özel ihtiyaçlarını karşılamak üzere özelleştirilebilir. Bu, ayrıntılı yasal araştırma ve analiz sağlamayı, belirli iş hedefleri için yasal stratejiler geliştirmeyi veya uyumluluk ve risk yönetimi için sürekli destek ve tavsiye sağlamayı içerebilir.",
+         "text6":"Hukuk danışmanlığının amacı, müvekkillerin hukuki hedeflerine ulaşmalarına ve hukuki menfaatlerini korumalarına yardımcı olmaktır. İşletmeler ve bireyler, nitelikli bir hukuk danışmanıyla çalışarak, karmaşık yasal sorunları çözmelerine ve yasal riskleri en aza indirmelerine yardımcı olabilecek uzman tavsiyesi ve rehberliğinden yararlanabilir."
+
+      }
+      },
+       "Corporate":  {
+         "id":"5",
+         "title":"Kurumsal & Bireysel İş Danışmanlığı",
+         "image":"assets/images/altsayfa-iş danışmanlığı.png",
+         "description":{
+         "text1":"Kurumsal İş Danışmanlığı: Kurumsal iş danışmanlığı, her ölçekten ve sektörden işletmeye uzman tavsiyesi ve rehberlik sağlayan profesyonel bir hizmettir. Kurumsal bir iş danışmanının rolü, şirketlerin genel performanslarını geliştirmelerine, karmaşık sorunları çözmelerine ve iş hedeflerine ulaşmalarına yardımcı olmaktır. Bu, stratejik planlama, finansal analiz, operasyonel yönetim, pazarlama ve satış stratejileri ve diğer özel hizmetlerin sağlanmasını içerebilir.",
+         "text2":"Kurumsal iş danışmanlığı hizmetlerinin gerekli olabileceği kilit alanlardan bazıları şunlardır:",
+         "subtitle1":"İş stratejisi geliştirme ve uygulama",
+         "subtitle2":"Finansal analiz ve yönetim",
+         "subtitle3":"Organizasyonel yeniden yapılanma ve değişim yönetimi",
+         "subtitle4":"Pazarlama ve satış stratejileri",
+         "subtitle5":"Tedarik zinciri optimizasyonu",
+         "subtitle6":"Risk yönetimi",
+         "subtitle7":"nsan kaynakları yönetimi ve eğitimi",
+         "subtitle8":"Teknoloji ve dijital dönüşüm",
+         "text3":"Bireysel İş Danışmanlığı: Bireysel iş danışmanlığı, girişimcilere ve küçük işletme sahiplerine uzman tavsiyesi ve rehberlik sağlayan profesyonel bir hizmettir. Bireysel bir iş danışmanının rolü, bireylerin kendi işlerini kurma, büyütme ve yönetme zorluklarının üstesinden gelmelerine yardımcı olmaktır. Bu, iş planlaması, pazarlama, satış, finansal yönetim ve operasyonel verimlilik gibi bir dizi konuda rehberlik sağlamayı içerebilir",
+         "text4":"Bireysel iş danışmanlığı hizmetlerinin gerekli olabileceği kilit alanlardan bazıları şunlardır:",
+         "subtitle9":"İş planlaması ve başlangıç rehberliği",
+         "subtitle10":"Pazar araştırması ve analizi",
+         "subtitle11":"Pazarlama ve markalaşma stratejileri",
+         "subtitle12":"Satış stratejileri ve olası satış",
+         "text5":"Mergen Ailesi olarak kurumsal & bireysel tüm iş danışmanlık taleplerinize en doğru ve hızlı şekilde cevap vererek danışanlarımıza tüm süreçlerde katma değer sağlamayı hedefliyoruz. "
+      }
+      },
+
+      "View-in-detail" :"Detaylı incele"
+
+
+    
+    }

@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.side-bar{
+    padding: 10px ;
+    height: auto;
+}
+.list-title{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px 0 0 10px;
+
+}
+hr{
+    width: 230px;
+
+}
+.side-bar a{
+    text-decoration: none;
+    color: rgb(101, 94, 94);
+    padding:0  0 0 15px;
+    font-size: 18px;
+}
+.side-bar a i{
+  display: none;
+}
+
+.side-bar a:hover{
+
+    padding:0  0 0 25px;
+    font-size: 18px;
+}
+
+.side-bar a:active {
+
+    color: #d61717;
+    padding:0  0 0 25px;
+    font-size: 18px;
+}
+
+.sidebar-page{
+    margin: 20px 0 ;
+}
+
+.side-bar a:hover i{
+    display: inline-block;
+}

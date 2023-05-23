@@ -1,0 +1,10 @@
+.work-area-desc-description{
+    font-size:20px;
+    opacity: .7;
+    word-spacing: 5px;
+}
+.work-area-desc-image img{
+    border-radius: 5px;
+    width:100%;
+    height: 350px;
+}

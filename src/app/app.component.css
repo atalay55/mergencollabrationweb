@@ -1,0 +1,205 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 
+ üstbar kısmı */
+.hd{
+    background-color:#cac4c0;
+    height: 55px;
+}
+.righticons{
+    margin-right: 15px;
+    font-size:15px;
+    margin: 15px ;
+    color: rgb(0, 0, 0);
+    justify-content: end;
+    text-align: end;
+    flex-wrap: nowrap;
+  
+}
+.righticons i:hover{
+    font-size:20px;
+}
+
+.hcontitem i{
+    font-size:15px;
+
+}
+.hcontitem a{
+    width: 130px;
+    font-size:13px;
+
+}
+
+.hcontitem i:hover{
+    font-size:20px;
+
+}
+
+/* nav bar */
+
+.nav-bar{
+    height:70px;
+   
+}
+.navbar{
+   
+    margin: auto;
+    height: 100%;
+    background-color:#cac4c0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.navbar .navbar-nav{
+  padding: 15px 5px;
+ 
+}
+.navbar .navbar-nav .nav-link {
+    position: relative;
+    display: inline-block;
+    color: #000000;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+.navbar-brand{
+    height: 100%;
+    margin: 0 0 4% 4%;
+    
+}
+.navbar-brand-image{
+   border-radius:5px;
+   height: 100%; 
+}
+
+
+.collapse .navbar-nav .nav-link::before{
+    content: "";
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    width: 90%;
+    height: 2px;
+    background-color: #FFF;
+    border-radius: 4px;
+    scale: 0.1;
+    transform-origin: left;
+    transition: scale 0.25s;
+}
+
+.collapse .navbar-nav .nav-link:hover::before{
+scale: 1;
+   
+}
+
+
+/* drapdonw kısmı */
+
+.dropDown{
+    position: relative;
+    display: inline-block;
+}
+.drop-btn{
+    text-decoration: none;
+    border: none;
+    color: #e8e4e4;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.drop-content{
+    margin:0 0 0 90px;
+    border-radius: 5px;
+    background-color: #514e4e;
+    min-width: 200px;
+    position: absolute;
+    display:none;
+
+}
+.dd-item{
+    display: block;
+    color: whitesmoke;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 15px  5px 15px;
+}
+
+.dd-item:hover{
+    display: block;
+    font-size: 18px;;
+
+}
+
+
+.dropDown:hover .drop-content{
+    display: block;
+    z-index: 2;
+}
+
+.float{
+	position:fixed;
+	width:70px;
+	height:70px;
+	bottom:30px;
+	right:30px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+    z-index:100;
+    animation: float .5s infinite alternate linear;
+}
+
+.my-float{
+	margin-top:20px;
+    
+}
+
+
+
+@keyframes float {
+   from {
+    transform: scale(.7);
+   }
+   to{
+    transform: scale(1);
+   }
+    
+}
+.foot-icon i{
+    font-size: 25px;
+}
+
+
+.foot-icon i:hover{
+
+    font-size: 30px;
+}
+
+
+
+@media only screen and (max-width:900px){
+    .üstbar{
+        display: none;
+    }
+    .navbar-collapse {
+        margin: 25px;
+        z-index:2;
+    }
+    .navbar .navbar-nav{
+        padding: 15px 5px;
+        background-color: rgb(130, 128, 128);
+        border-radius: 15px;
+      }
+      .hd{
+        display: none;
+      }
+    
+    
+}

@@ -1,0 +1,202 @@
+{
+    "Home":"Home",
+    "About": "About",
+    "Works":"Working Zones",
+    "Contact-Us": "Contact us",
+    "Contact-Us-title": "Contact us",
+    "Contact-Us-text":"Contact Us Anytime, We Will Help You With Pleasure",
+    "phone": "Phone",
+    "adress": "adress",
+    "descPage":[
+        "Information Technologies","Education ","Foreign Trade ","Commercial","Law","Corporate"
+      ],
+      "Caruosel-img1-text":"Welcome to our site",
+      "contactUs-btn-text":"Contact us",
+      "Caruosel-img2-text":"We only need one thing, to be hardworking. Wealth and its natural result, prosperity and happiness, are the right of the hardworking only.",
+      "Caruosel-img3-text":"We are here to contribute to you individually or institutionally with the solutions you need in the fields of corporate business consultancy, real estate, foreign trade, information technologies, higher education and law.",
+      "contact-us-part-text":"Do you need consultancy?",
+      "home-about-text1":"Mergen Collaboration & Consultancy was established in 2023. Our company takes its name from “Mergen”, the God of Mind in Turkish and Altaic mythology. He represents the mind, intelligence and wisdom. He does not miss his target with his wisdom. He gives people wisdom. Symbolizes science and philosophy.",
+      "home-about-text2":"As Mergen Collaboration & Consultancy, our mission is to systematically implement the solutions you need in the fields of corporate business consultancy, real estate, foreign trade, information technologies, education and law, contribute individually or corporately, and make it sustainable.",
+      "home-about-text3":"Our vision as Mergen Collaboration & Consultancy; to be a customer-centered, innovative, respected and global consultancy firm that acts with the basic principles of honesty and transparency.",
+      "home-about-text4":"By putting the principles of accessibility and transparency at the center of our business processes, we want to respond to your needs by addressing them in a multidisciplinary manner with market research & analysis, practical solutions, wide business partnership networks, legal support processes.",
+      "home-about-text5":"We handle the demands of our customers in the most meticulous manner from the beginning to the end of our business processes, and we regularly report to our customers in an accurate, understandable and comprehensive manner. In all our business processes, we provide services in Turkish, English and French depending on the preferences of our customers. Our consultancy activities continue on a 24/7 basis, while our other business processes continue between 09.00-18.00 except Sunday.",
+
+      "descCard":[
+        {
+           "id":"1",
+           "title":"Information Technologies",
+           "description":"We are at your service with innovative and up-to-date technology solutions with web design and development...",
+           "image":"fa fa-laptop"
+        },
+        {
+           "id":"2",
+           "title":"Higher Education & Student Exchange Programs",
+           "description":"We provide consultancy services before, during and after the application for foreign students who ...",
+           "image":"fa fa-book"
+        },
+        {
+           "id":"3",
+           "title":"Foreign Trade & Custom Clearance & Logistics",
+           "description":"We provide consultancy services regarding all kinds of business and transactions, what should be done ...",
+           "image":"fa fa-globe"
+        },
+        {
+           "id":"4",
+           "title":"Commercial & Residential & Industrial Real Estate",
+           "description":"We offer solutions for your commercial, residential, or industrial real estate demands that meet the...",
+           "image":"fa fa-building"
+        },
+        {
+           "id":"5",
+           "title":"Law",
+           "description":"We provide consultancy and business partnership solutions in the field of law with our mediation services and preparation...",
+           "image":"fa fa-solid fa-gavel"
+        },
+        {
+           "id":"6",
+           "title":"Corporate & Individual Business",
+           "description":"We serve you corporately or individually with our business and other administrative consultancy activities...",
+           "image":"fa fa-gears"
+        }
+     ],
+     "why-us-title":"Why Choose Us",
+     "why-us-text-title-1":"Transparency",
+     "why-us-text-text-1":"As the Mergen family, we are committed to presenting information about all our business processes, except for trade secrets, in a timely, accurate, understandable and comprehensive manner. We respond as soon as possible on the basis of 24.",
+     "why-us-text-title-2":"Accessibility",
+     "why-us-text-text-2":"We always maintain our goal of conducting our business processes in Turkish, English and French with a focus on customer satisfaction, and we respond to the demands of our customers as soon as possible on a 24/7 basis.",
+     "name-surname":"Name Surname",
+     "email":"Email",
+     "subject":"Subject",
+     "form-message":"Please Write Your Message Here..",
+     "send" : "Send",
+     "Contact-information":"Contact information",
+
+
+     "Information-Technologies":{
+      "id":"0",
+      "title":"Information Technologies",
+      "image":"assets/images/altsayfa-bilişim.png",
+       "description":{"text1":"Information technology services cover a wide range of services that support the technology needs of businesses. These services may include hardware and software support, network and infrastructure management, cybersecurity and strategic planning for technology investment and implementation.",
+         "text2":"The scope of IT services can be quite broad and covers a variety of areas such as:",
+         "subtitle1":"IT infrastructure management including servers, networks, and databases",
+         "subtitle2":"Cloud computing and virtualization",
+         "subtitle3":"Software development and application support",
+         "subtitle4":"Cyber security and data protection",
+         "subtitle5":"Help desk and technical support",
+         "subtitle6":"Strategic planning and technology consultancy",
+         "subtitle7":"Business continuity and disaster recovery",
+         "text3":"IT services are critical for businesses of all sizes and industries to operate effectively and securely in today's digital environment. IT services providers can help businesses use the latest technologies and tools to increase productivity, efficiency and profitability while minimizing risk. One of the key benefits of working with an IT services provider is access to their expertise and industry knowledge. Providers have a deep understanding of the latest trends and best practices in the technology industry, as well as the threats and risks facing businesses. This knowledge can be invaluable when it comes to making informed decisions about technology investments and implementation. ",
+         "text4":"IT services can be customized to meet the specific needs of individual customers. This may include providing ongoing support and maintenance for a company's existing IT infrastructure or developing and implementing new technology solutions to meet specific business needs",
+         "text5":"The purpose of IT services is to help businesses leverage technology to achieve their business goals and maximize their potential for success. Businesses that work with a qualified IT services provider can benefit from expert advice and guidance that can help them navigate the complex and ever-evolving technology landscape. As “Mergen Collaboration & Consultancy”, we aim to provide qualified IT consultancy services"
+      }
+   },
+   "Education":  {
+      "id":"1",
+      "title":"Higher Education & Student Exchange Programs",
+      "image":"assets/images/altsayfa-eğitim.png",
+      "description":{
+         "text1":"Higher education refers to the post-secondary education that individuals receive after completing high school. This can include bachelor's degrees, master's degrees, and professional programs such as law or medicine. Higher education is a crucial step in preparing individuals for careers and providing them with the knowledge and skills necessary to succeed in their chosen field.",
+         "text2":"Student exchange programs are a type of education program that allows students to study abroad and gain international experience. These programs offer students the opportunity to immerse themselves in a new culture, learn a new language, and gain valuable skills that can advance their academic and professional careers.",
+         "text3":"Higher education and student exchange programs are closely related, as many universities and colleges offer exchange programs to their students as part of their higher education experience. These programs can be an excellent way for students to broaden their horizons, gain valuable experience and connect with people from all over the world.",
+         "text4":"Higher education and student exchange programs can have a significant impact on individuals and society as a whole. They can lead to increased cultural awareness and understanding, the development of valuable skills, and the creation of a more globally-minded workforce. They can also provide individuals with opportunities to explore their interests and passions, explore new career paths, and make a difference in the world.",
+         "text5":"In recent years there has been a growing trend towards internationalization in higher education, with more universities and colleges offering exchange programs and other international opportunities to their students. This trend is expected to continue as globalization continues to shape the world we live in.",
+         "text6":"As a result, higher education and student exchange programs are critical components of the educational environment. It provides individuals with the skills, knowledge, and experience necessary to succeed in today's globalizing world and contribute to a more culturally aware and connected society.",
+         "text7":"As the Mergen Family, we provide consultancy services before, during and after the application for foreign students who want to receive undergraduate, graduate and doctoral education in Turkey. In addition, we are at your service with student exchange programs of universities or non-governmental organizations and with our solutions for education abroad, which has a critical importance in education life. Simultaneously, we serve our Turkish clients who want to contribute to their education abroad through higher education or student exchange programs. "
+      
+      }
+   },
+   "Foreign Trade":  {
+      "id":"2",
+      "title":"Foreign Trade & Custom Clearance & Logistics",
+      "image":"assets/images/altsayfa-dış ticaret.png",
+      "description":{
+         "text1":"Foreign trade, customs and logistics consultancy services provide expert advice and guidance to businesses engaged in international trade. These services can help businesses navigate the complex and ever-evolving global business environment, including laws, regulations and logistics related to the import and export of goods.",
+         "text2":"The scope of these consulting services can cover a wide range of areas, including:",
+         "subtitle1":"International trade laws and regulations",
+         "subtitle2":"Customs compliance and documentation",
+         "subtitle3":"Tariff classification and valuation",
+         "subtitle4":"Trade finance and payment methods",
+         "subtitle5":"Transport and logistics management",
+         "subtitle6":"Supply chain optimization and risk management",
+         "subtitle7":"Custom clearance",
+         "subtitle8":"Warehouse services",
+         "text3":"Foreign trade, customs and logistics consultants can assist businesses with a variety of tasks, such as obtaining import and export licenses, complying with customs regulations, and managing international shipments. They can also provide guidance on optimizing supply chain processes and minimizing risk.",
+         "text4":"One of the key benefits of working with a foreign trade, customs and logistics consultant is access to their expertise and industry knowledge. Consultants have a deep understanding of the complex rules and regulations governing international trade, as well as the logistics and shipping involved in cross-border shipping of goods. This knowledge can be invaluable when it comes to avoiding costly mistakes and ensuring regulatory compliance.",
+         "text5":"Foreign trade, customs and logistics consulting services can be customized to meet the specific needs of individual customers. This may include providing detailed market research and analysis, developing financial models to evaluate potential investments, or providing ongoing support and advice for logistics management and supply chain optimization.",
+         "text6":"Ultimately, the purpose of foreign trade, customs and logistics consultancy is to help businesses engaged in international trade reach their goals and maximize their potential for success. Businesses that work with a qualified consultant can benefit from expert advice and guidance that can help them navigate the complex and ever-evolving global business landscape.",
+         "text7":"All you need to do for your individual or corporate import & export transactions is to contact us. We would like to offer solutions by completing the above-mentioned services in the most risk-free, safe and fast way for you with our experienced and expert business partners."
+
+      }
+   },
+   "Commercial":  {
+      "id":"3",
+      "title":"Commercial & Residential & Industrial Real Estate",
+      "image":"assets/images/altsayfa-gayrimenkul.png",
+      "description":{
+         "text1":"Real estate consultancy is a professional service that provides expert advice on real estate matters. The role of a real estate agent is to provide guidance on a variety of real estate related issues. This may include advising clients on how to buy or sell a property, helping them identify potential investment opportunities, or assisting them with property management. Real estate consultants can also support property development projects, including site selection, feasibility studies and project management.",
+         "text2":"One of the key benefits of working with a consultant is access to their expertise and industry knowledge. Advisors have a deep understanding of the real estate market, including current trends, property values and regulatory requirements. This information can be invaluable when it comes to making informed decisions about real estate transactions.",
+         "text3":"Real estate consulting services can be customized to meet the specific needs of individual clients. This may include providing detailed market research and analysis, developing financial models to evaluate potential investments, or providing ongoing support and advice for property management.",
+         "text4":"Ultimately, the goal of real estate consulting is to help clients make informed decisions about real estate investments. By working with a qualified consultant, individuals and businesses can benefit from expert advice and guidance that can help them achieve their real estate goals",
+         "text5":"As the Mergen Family, we are at your service for your commercial, residential, or industrial (agricultural, livestock, energy and production, etc.) real estate requests. We aim to respond quickly to your needs in the real estate sector, especially with market analysis, portfolio determination with our strong network, financial analysis, legal control and building control."
+      }
+   },   
+   "Law" :   
+    {
+      "id":"4",
+      "title":"Law",
+      "image":"assets/images/altsayfa-hukuk.png",
+      "description":{
+            
+         "text1":"We provide consultancy and business partnership solutions in the field of law with our mediation services and preparation of individual or commercial contracts along with real estate, trade, business, zoning, inheritance, family, tax, criminal, health, urban transformation, insurance, rent, enforcement, foreigners law. Legal advisory services provide businesses and individuals with expert advice and guidance on legal matters. These services can cover a wide range of areas such as corporate law, employment law, intellectual property law, contract law and litigation.",
+         "text2":"The scope of legal counseling services can be quite broad and covers a variety of areas such as:",
+         "subtitle1":"Contract drafting and review",
+         "subtitle2":"Real estate law",
+         "subtitle3":"Commercial law",
+         "subtitle4":"Labor and employment law",
+         "subtitle5":"Family and inheritance law",
+         "subtitle6":"Tax law",
+         "subtitle7":"Criminal law",
+         "subtitle8":"Health law",
+         "subtitle9":"Enforcement law",
+         "subtitle10":"Foreigners law",
+         "subtitle11":"Urban transformation process",
+         "subtitle12":"Intellectual property protection and enforcement",
+         "subtitle13":"Litigation and dispute resolution",
+         "subtitle14":"Legal compliance and risk management",
+         "subtitle15":"Mergers and acquisitions",
+
+         "text3":"Legal advisers may work with clients on specific projects, such as drafting and negotiating contracts or providing legal representation in court. They can also provide ongoing support and guidance to help businesses comply with regulations and overcome complex legal issues.",
+         "text4":"One of the key benefits of working with a legal counsel is access to their expertise and industry knowledge. Consultants have a deep understanding of the legal environment, including current laws, regulations, and best practices. This knowledge can be invaluable when it comes to making informed legal decisions and avoiding costly legal disputes.",
+         "text5":"Legal counseling services can be customized to meet the specific needs of individual clients. This may include providing detailed legal research and analysis, developing legal strategies for specific business objectives, or providing ongoing support and advice for compliance and risk management.",
+         "text6":"The purpose of legal consultancy is to help clients achieve their legal goals and protect their legal interests. By working with a qualified legal counsel, businesses and individuals can benefit from expert advice and guidance that can help them resolve complex legal issues and minimize legal risks."
+
+      }
+   },
+   "Corporate":
+   {
+      "id":"5",
+      "title":"Corporate & Individual Business",
+      "image":"assets/images/altsayfa-iş danışmanlığı.png",
+      "description":{
+         "text1":"Corporate Business Consulting: Corporate business consulting is a professional service that provides expert advice and guidance to businesses of all sizes and industries. The role of a corporate business consultant is to help companies improve their overall performance, solve complex problems and achieve business goals. This may include strategic planning, financial analysis, operational management, marketing and sales strategies and the provision of other specialized services.",
+         "text2":"Some of the key areas where corporate business consulting services may be required include:",
+         "subtitle1":"Business strategy development and implementation",
+         "subtitle2":"Financial analysis and management",
+         "subtitle3":"Organizational restructuring and change management",
+         "subtitle4":"Marketing and sales strategies",
+         "subtitle5":"Supply chain optimization",
+         "subtitle6":"Risk management",
+         "subtitle7":"Human resources management and training",
+         "subtitle8":"Technology and digital transformation",
+         "text3":"Individual Business Consulting: Individual business consulting is a professional service that provides expert advice and guidance to entrepreneurs and small business owners. The role of an individual business consultant is to help individuals overcome the challenges of starting, growing and managing their own businesses. This may include providing guidance on a range of issues such as business planning, marketing, sales, financial management and operational efficiency.",
+         "text4":"Some of the key areas where individual business consulting services may be required include:",
+         "subtitle9":"Business planning and startup guidance",
+         "subtitle10":"Market research and analysis",
+         "subtitle11":"Marketing and branding strategies",
+         "subtitle12":"Sales strategies and leads",
+         "text5":"As the Mergen Family, we aim to provide added value to our clients in all processes by responding to all your corporate and individual business consultancy requests in the most accurate and fastest way. "
+      }
+   },
+   "View-in-detail":"View in detail"
+
+    }
